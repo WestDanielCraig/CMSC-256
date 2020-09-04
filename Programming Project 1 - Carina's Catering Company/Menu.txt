@@ -1,0 +1,18 @@
+Savory Mince & Cheese  : savory :   none   :  y
+Blueberry Apple	: sweet pie	: vegan		: y
+Mellowpuff	 :	 sweet treat	 :  	none	 : N
+Pork & Peach BBQ  :   savory    :   none   :  y
+Curried Lamb & Spinach  :   savory    :   none   :  y
+Chicken & Kumara  :   savory    :   none   :  y
+Smoked Salmon, Leek & Potato  :   savory    :   none   :  y
+Coconut Cream  : sweet pie	: none		: y
+Dutch Apple  : sweet pie	: vegetarian		:  y
+Lemon Meringue  	: sweet pie	: none		: y
+Mock Turtle 	: sweet pie	: vegan		: y
+Thai Butternut Curry  :   savory    :   vegan   :  y
+Sausage Roll  :   savory    :   none   :  y
+Anzac Biscuit :	 sweet treat	 :  	gluten-free	 : y
+Caramel Blondie   :	 sweet treat	 :  	none	 : y
+Cherry Pecan Brownie   :	 sweet treat	 :  	none	 : n
+Chocolate Peppermint Cookie  :	 sweet treat	 :  	none	 : y
+Lamington  :	 sweet treat	 :  	none	 : y
